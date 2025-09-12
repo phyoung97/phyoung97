@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phyoung97
 - 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence
-- 🌱 I’m currently learning Python for Data Science and Machine Learning algortims 
+- 🌱 I’m currently condicting projects for Data Science and Machine Learning algortims 
 - 💞️ I’m looking to collaborate on Machine Learning projects
 - 📫 How to reach me @payoung97@outlook.com
 
