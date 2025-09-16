@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @phyoung97
-- 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence
-- 🌱 I’m currently condicting projects for Data Science and Machine Learning algortims 
-- 💞️ I’m looking to collaborate on Machine Learning projects
-- 📫 How to reach me @payoung97@outlook.com
+-  Hi, I’m @phyoung97
+-  I’m interested in Data Science, Machine Learning and Artificial Intelligence
+-  I’m currently conducting projects for Data Science and Machine Learning algortims 
+-  I’m willing to collaborate on Machine Learning projects
+-  How to reach me @payoung97@outlook.com
 
 <!---
 phyoung97/phyoung97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
