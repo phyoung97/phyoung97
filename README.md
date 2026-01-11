@@ -1,6 +1,6 @@
 -  Hi, I’m @phyoung97
--  I’m interested in Data Science, Machine Learning and Artificial Intelligence
--  I’m currently conducting projects for Data Science and Machine Learning algortims 
+-  I’m passionate in applied Data Science, Machine Learning and Artificial Intelligence
+-  I’m currently conducting projects for Data Science and Machine Learning algortims on various topics of interest. 
 -  I’m willing to collaborate on Machine Learning projects
 -  How to reach me @payoung97@outlook.com
 
